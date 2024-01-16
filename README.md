@@ -13,9 +13,6 @@ Desenvolvimento de uma API que concentrará dados de usuários, pedidos e pratos
   npm i
 
 # Criando base de dados
-  npm migrate
-
-# Rode as migration
   npm run migrate
 
 # Executando o projeto no ambiente de desenvolvimento
